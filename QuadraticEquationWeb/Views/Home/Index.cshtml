@@ -1,0 +1,27 @@
+﻿@model QuadraticEquationWeb.Models.EquationModel
+
+
+
+@{
+    ViewBag.Title = "Home Page";
+    //@Html.DisplayForModel()
+}
+
+@using (Html.BeginForm()) //auto make html form
+{
+    @Html.TextBoxFor(model => model.Coef_A)
+
+    @Html.TextBoxFor(model => model.Coef_B)
+
+    @Html.TextBoxFor(model => model.Coef_C)
+
+
+
+    @Model.RootX1
+
+    @Model.RootX2
+
+    @Model.solveStatus
+
+    <input type="submit" value="GO" />
+}

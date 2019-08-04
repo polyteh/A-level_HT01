@@ -1,0 +1,10 @@
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationConsole\bin\Debug\QuadraticEquationConsole.exe.config
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationConsole\bin\Debug\QuadraticEquationConsole.exe
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationConsole\bin\Debug\QuadraticEquationConsole.pdb
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationConsole\bin\Debug\QuadraticEquationClass.dll
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationConsole\bin\Debug\QuadraticEquationClass.pdb
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationConsole\obj\Debug\QuadraticEquationConsole.csprojAssemblyReference.cache
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationConsole\obj\Debug\QuadraticEquationConsole.csproj.CoreCompileInputs.cache
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationConsole\obj\Debug\QuadraticEquationConsole.csproj.CopyComplete
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationConsole\obj\Debug\QuadraticEquationConsole.exe
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationConsole\obj\Debug\QuadraticEquationConsole.pdb

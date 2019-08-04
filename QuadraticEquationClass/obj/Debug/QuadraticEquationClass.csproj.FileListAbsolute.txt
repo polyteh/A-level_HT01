@@ -1,0 +1,6 @@
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationClass\bin\Debug\QuadraticEquationClass.dll
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationClass\bin\Debug\QuadraticEquationClass.pdb
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationClass\obj\Debug\QuadraticEquationClass.csprojAssemblyReference.cache
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationClass\obj\Debug\QuadraticEquationClass.csproj.CoreCompileInputs.cache
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationClass\obj\Debug\QuadraticEquationClass.dll
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationClass\obj\Debug\QuadraticEquationClass.pdb

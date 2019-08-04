@@ -1,0 +1,13 @@
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationForms\bin\Debug\QuadraticEquationForms.exe.config
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationForms\bin\Debug\QuadraticEquationForms.exe
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationForms\bin\Debug\QuadraticEquationForms.pdb
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationForms\bin\Debug\QuadraticEquationClass.dll
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationForms\bin\Debug\QuadraticEquationClass.pdb
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationForms\obj\Debug\QuadraticEquationForms.csprojAssemblyReference.cache
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationForms\obj\Debug\QuadraticEquationForms.Form1.resources
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationForms\obj\Debug\QuadraticEquationForms.Properties.Resources.resources
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationForms\obj\Debug\QuadraticEquationForms.csproj.GenerateResource.cache
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationForms\obj\Debug\QuadraticEquationForms.csproj.CoreCompileInputs.cache
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationForms\obj\Debug\QuadraticEquationForms.csproj.CopyComplete
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationForms\obj\Debug\QuadraticEquationForms.exe
+D:\Education\A-Level\Lesson_01\01_HT\QuadraticEquationForms\obj\Debug\QuadraticEquationForms.pdb
